@@ -3,7 +3,7 @@
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu_24.04_LTS-E95420?logo=ubuntu&logoColor=white)
 ![Level](https://img.shields.io/badge/Level-Beginner-brightgreen)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+
 
 A classic two-tier network on Azure: a **public web tier** that the internet can reach, and a **private database tier** that only the web tier can talk to. The lab practices network segmentation, Network Security Groups (NSGs), and the "jump host" pattern for reaching servers that have no public IP.
 
