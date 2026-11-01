@@ -2,6 +2,7 @@
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu_24.04_LTS-E95420?logo=ubuntu&logoColor=white)
+
 https://www.loom.com/share/4072403cf5934cff8c0c7edba63860ef 
 
 
