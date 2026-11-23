@@ -304,4 +304,3 @@ This removes the VMs, disks, NICs, NSGs, public IP, and VNet in one step.
 
 ---
 
-*Based on "Lab 02: Building a Secure 2-Tier Web Application" by Jhante Charles.*
